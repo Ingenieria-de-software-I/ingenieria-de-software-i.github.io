@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Luciano Leveroni",
+        "github": "lucianolev",
+        "email": "lleveroni@fi.uba.ar",
+        "profile-image": "./assets/docentes/LucianoL.png"
+    },
+    {
+        "name": "Juan Burella",
+        "github": "jburella",
+        "email": "juan.burella@gmail.com",
+        "profile-image": "./assets/docentes/JuanB.jpg"
+    },
+    {
+        "name": "Sergio Fedi",
+        "github": "sergio-fedi",
+        "email": "sergio.fedi@gmail.com",
+        "profile-image": "./assets/docentes/SergioF.gif"
+    },
+    {
+        "name": "Iván Loyarte",
+        "github": "iloyarte",
+        "email": "iloyarte@fi.uba.ar",
+        "profile-image": "./assets/docentes/IvanL.jpg",
+        "offset": "75%"
+    },
+    {
+        "name": "Julieta Taras",
+        "github": "julitaras",
+        "email": "jtarasfi.uba.ar",
+        "profile-image": "./assets/docentes/JulietaT.JPG"
+    },
+    {
+        "name": "Mauro Rizzi",
+        "github": "Mauro-Rizzi",
+        "email": "mrizzi@fi.uba.ar",
+        "profile-image": "./assets/docentes/MauroR.jpg"
+    },
+    {
+        "name": "Nicolás Continanza",
+        "github": "ncontinanza",
+        "email": "ncontinanza@fi.uba.ar",
+        "profile-image": "./assets/docentes/NicolasC.png"
+    },
+    {
+        "name": "Fernando Laudadio",
+        "github": "flaudadio",
+        "email": "flaudadio@fi.uba.ar",
+        "profile-image": "./assets/docentes/FernandoL.jpg"
+    },
+    {
+        "name": "Joaquín Singer",
+        "github": "josinger",
+        "email": "josinger@fi.uba.ar",
+        "profile-image": "./assets/docentes/JoaquinS.jpg",
+        "offset": "25%"
+    },
+    {
+        "name": "Josué Alejandro Bouchard",
+        "github": "josuebouchard",
+        "email": "jbouchard@fi.uba.ar",
+        "profile-image": "./assets/docentes/JosueB.jpeg"
+    },
+    {
+        "name": "Ana Gutson",
+        "github": "AnaGutson",
+        "email": "agutson@fi.uba.ar",
+        "profile-image": "./assets/docentes/AnaG.jpg"
+    },
+    {
+        "name": "Nazarena Rueda",
+        "github": "Naza26",
+        "email": "nrueda@fi.uba.ar",
+        "profile-image": "./assets/docentes/NazarenaR.jpg"
+    },
+    {
+        "name": "Tomas Szejnfeld Sirkis",
+        "github": "TomasSzeSirk",
+        "email": "tszejnfeld@fi.uba.ar",
+        "profile-image": "./assets/docentes/TomasSS.jpg",
+        "offset": "0%"
+    },
+    {
+        "name": "Bruno Luciano Starnone",
+        "github": "bstarnone",
+        "email": "bstarnone@fi.uba.ar",
+        "profile-image": "./assets/docentes/BrunoS.jpeg",
+        "offset": "0%"
+    },
+    {
+        "name": "Santiago Tobías Langer",
+        "github": "astrocinco",
+        "email": "santiagolanger@gmail.com",
+        "profile-image": "./assets/docentes/SantiagoL.jpg"
+    },
+    {
+        "name": "Pedro Grin",
+        "github": "pedrogrin",
+        "email": "pgrin@fi.uba.ar",
+        "profile-image": "./assets/docentes/PedroG.jpg",
+        "offset": "0%"
+    },
+    {
+        "name": "Fede Celeste Gómez",
+        "github": "Fedx2001",
+        "email": "fedgomez@fi.uba.ar",
+        "profile-image": "./assets/docentes/FedeG.jpg",
+        "offset": "40%"
+    },
+    {
+        "name": "Maximo Palopoli",
+        "github": "maximopalopoli",
+        "email": "mpalopoli@fi.uba.ar",
+        "profile-image": "./assets/docentes/MaximoP.png",
+        "offset": "0%"
+    },
+    {
+        "name": "Claudia Cominotti",
+        "github": "ccominotti",
+        "email": "ccominotti@fi.uba.ar",
+        "profile-image": "./assets/docentes/ClaudiaC.jpg",
+        "offset": "10%"
+    },
+    {
+        "name": "Ramiro Andrés Fernandez Marquez",
+        "github": "ramafernandez",
+        "email": "rfernandezm@fi.uba.ar",
+        "profile-image": "./assets/docentes/RamiroFM.jpg",
+        "offset": "55%"
+    },
+    {
+        "name": "Julian Agustin Rando",
+        "github": "JuVaTo",
+        "email": "jrando@fi.uba.ar",
+        "profile-image": "./assets/docentes/JulianR.jpg",
+        "offset": "55%"
+    }
+]
