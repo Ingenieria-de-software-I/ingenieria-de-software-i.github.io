@@ -5,7 +5,7 @@ title: FAQs
 
 ## Terminé el exámen y necesito certificado del mismo
 
-Descargá el [certificado](assets/docs/certificado_examen.pdf)) o bien, podes encontrarlo en la [página de FIUBA](https://www.ingenieria.uba.ar/estudiantes/formularios) y dirigirte a "Certificado de examen", completa con tus datos y envialo a la siguiente <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lleveroni@fi.uba.ar&cc=fiuba-algoritmos-iii-doc@googlegroups.com" target="_blank"> casilla de correo</a>. Sino tambien, podes traer el mismo completado el dia del examen para que sea firmado por Luciano/Juan.
+Descargá el [certificado](assets/docs/certificado_examen.pdf) o bien, podes encontrarlo en la [página de FIUBA](https://www.ingenieria.uba.ar/estudiantes/formularios) y dirigirte a "Certificado de examen", completa con tus datos y envialo a la siguiente <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lleveroni@fi.uba.ar&cc=fiuba-algoritmos-iii-doc@googlegroups.com" target="_blank"> casilla de correo</a>. Sino tambien, podes traer el mismo completado el dia del examen para que sea firmado por Luciano/Juan.
 
 ## Estoy matriculado en la materia pero no en el campus
 
