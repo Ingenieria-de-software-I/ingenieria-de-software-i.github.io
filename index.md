@@ -34,7 +34,7 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 ## Canales de consultas <a name="canales-consultas"></a>
 
-- Envíando un mail a la lista de correos: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fiuba-algoritmos-iii@googlegroups.com" target="_blank"> fiuba-algoritmos-iii@googlegroups.com </a>
+- Envíando un mail a la lista de correos: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fiuba-ingenieria-de-software-i-doc@googlegroups.com" target="_blank"> fiuba-ingenieria-de-software-i-doc@googlegroups.com </a>
 - Por nuestro [canal de discord](https://discord.gg/3A5bbVKywa).
 
 Recuerden por favor realizar toda consulta por **canales públicos** (es decir NO por canales privados de Discord ni por la lista docentes), así ayudan a otros a despejar esa misma duda o incluso ayudar a un compañero/a con alguna duda que tenga.
@@ -45,4 +45,4 @@ Recuerden por favor realizar toda consulta por **canales públicos** (es decir N
 
   - Este buzon es de caracter anónimo y nos va a servir para mejorar clase a clase, en vez de esperar a que termine el cuatrimestre.
 
-- Si querés comunicarte con los docentes por algun problema en particular, podés envíar un mail a la <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fiuba-algoritmos-iii-doc@googlegroups.com" target="_blank"> lista de docentes</a>.
+- Si querés comunicarte con los docentes por algun problema en particular, podés envíar un mail a la <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fiuba-ingenieria-de-software-i-doc@googlegroups.com" target="_blank"> lista de docentes</a>.
