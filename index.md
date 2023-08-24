@@ -65,7 +65,7 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 ## Canales de consultas <a name="canales-consultas"></a>
 
 - Por nuestro [canal de discord](https://discord.gg/3A5bbVKywa). Por favor realizar toda consulta por **canales públicos** como los canales abiertos o los foros, así ayudan a otros a despejar esa misma duda o incluso ayudar a un compañero/a con alguna duda que tenga. Pueden compartir código de ejercicios y TPs sin problema.
-- Para consultas personales/privadas, envianos un mail a la lista de docentes: <a href="mailto:fiuba-ingsoft1-doc@googlegroups.com"> fiuba-ingenieria-de-software-i-doc@googlegroups.com </a>
+- Para consultas personales/privadas, envianos un mail a la lista de docentes: <a href="mailto:fiuba-ingsoft1-doc@googlegroups.com">fiuba-ingsoft1-doc@googlegroups.com</a>
 
 Por favor NO se contacten de forma privada con un docente en particular por mail y menos aún por mensajes privados de Discord (o cualquier otro medio).
 
@@ -75,4 +75,4 @@ Por favor NO se contacten de forma privada con un docente en particular por mail
 
   - Este buzon es de caracter anónimo y nos va a servir para mejorar clase a clase, en vez de esperar a que termine el cuatrimestre.
 
-- Si querés comunicarte con los docentes por algun problema en particular, podés envíar un mail a la <a href="mailto:fiuba-ingsoft1-doc@googlegroups.com"> lista de docentes</a>.
+- Si querés comunicarte con los docentes por algun problema en particular, podés envíar un mail a la <a href="mailto:fiuba-ingsoft1-doc@googlegroups.com">lista de docentes</a>.
