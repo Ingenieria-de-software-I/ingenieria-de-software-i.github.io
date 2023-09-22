@@ -18,30 +18,32 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 - **Parcial:** Hay un exámen parcial, promediando la cursada (ver Cronograma).
 
-- **TP integrador:** Durante la segunda parte, los mismos grupos deberán realizar un trabajo práctico integrador. Cada grupo contará con el seguimiento de 2 docentes. Los docentes irán dando devoluciones semanales al grupo. En la última entrega, los docentes harán una evaluación final del trabajo del grupo, considerando también el aporte individual de cada integrante. Podrá re-entregarse en las fechas de 1er y 2do recuperatorio.
+- **TP integrador:** Durante la segunda parte, los mismos grupos deberán realizar un trabajo práctico integrador. Cada grupo contará con el seguimiento de 2 docentes. Los docentes irán dando devoluciones semanales al grupo. En la última entrega, los docentes harán una evaluación final del trabajo del grupo, considerando también el aporte individual de cada integrante. Podrá re-entregarse en la fecha del 2do recuperatorio.
 
 - **Lecturas / Quizzes:** Durante la cursada habrá papers (o capítulos de libros) a leer para distintas clases, marcadas en el Cronograma. Habrá cuestionarios (tipo quiz) durante la cursada para evaluar las lecturas. Quienes obtengan un 75% (o más) de respuestas correctas sumarán para la nota final de cursada medio punto adicional (0.5) por cada 4 cuestionarios que cumplan este criterio. Estos puntos sevirán sólo para la promoción, es decir, se sumarán sólo en caso de haber aprobado el parcial.
 
 ## Criterio de Aprobación
 
-- Para aprobar la cursada es necesario aprobar el TP integrador con una nota mayor o igual a 4 (o en su defecto, en algún recuperatorio).
+- Para aprobar la cursada es necesario:
+  - Aprobar el TP integrador con una nota mayor o igual a 4 (o en su defecto, en la instancia de re-entrega).
+  - Aprobar el parcial con con una nota mayor o igual a 4 (o en su defecto, en algún recuperatorio).
 
-- No es necesario aprobar los ejercicios prácticos ni el parcial para aprobar la cursada. Sin embargo, es MUY recomendable hacerlos para poder estar preparados para aprobar el TP integrador.
+- No es necesario aprobar los ejercicios prácticos para aprobar la cursada. Sin embargo, es MUY recomendable hacerlos para poder estar preparados para aprobar el parcial y el TP integrador.
 
 ### Recuperatorios
 
-- En caso de desaprobar el TP integrador contarán con la posibilidad de re-entregar el TP en la fecha del 1er recuperatorio. Este recuperatorio reemplaza la nota del TP.
+- En caso de desaprobar el TP integrador contarán con la posibilidad de re-entregar el TP en la fecha del 2do recuperatorio. Este recuperatorio reemplaza la nota del TP.
 
 - A diferencia de la 1ra entrega, la defensa de la re-entrega será realizada de forma individual (aunque el trabajo se podrá realizar en grupo).
 
-- Quienes desaprueben la 1er re-entrega, contarán con un 2da re-entrega con la misma modalidad. Esta instancia sólo servirá para aprobar la cursada, pero no para promocionar (tampoco se considerará para la nota de cursada).
+- En caso de desaprobar el parcial contarán con 2 (dos) instancias de recuperatorio. En el caso del 2do recuperatorio, esta instancia sólo servirá para aprobar la cursada, pero no para promocionar (tampoco se considerará para la nota de cursada).
 
-- Los ejercicios y el parcial, dado que no son condición para aprobar la cursada sino sólo para promocionar, NO tienen instancia de recuperatorio.
+- Los ejercicios, dado que no son condición para aprobar la cursada sino sólo para promocionar, NO tienen instancia de recuperatorio.
 
 ### Nota de cursada
 
 - En caso de aprobar la cursada, la nota se calcula como el promedio redondeado (ver debajo) entre:
-  - Nota del TP integrador (o de la 1er re-entrega).
+  - Nota del TP integrador (o de la re-entrega).
   - Promedio entre las notas de los ejercicios y la nota del parcial. Es decir (Promedio(Ejercicios) + Parcial) / 2.
 
 - En caso de que el cálculo de la nota de cursada sea menor a 4, pero se haya aprobado la cursada, será 4 la nota de cursada.
@@ -55,7 +57,7 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 ## Promoción
 
 - Para promocionar, se deben cumplir las siguientes 2 condiciones:
-  - Nota del TP integrador >= 7 (o de la 1ra re-entrega).
+  - Nota del TP integrador >= 7 (o de la re-entrega).
   - Nota de cursada >= 7.
 
 - En caso de aprobar el TP integrador, NO se aceptarán re-entregas para subir la nota para promocionar.
