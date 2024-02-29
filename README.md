@@ -2,7 +2,7 @@
 Sitio web del curso Leveroni de Ingenieria de Software I
 
 ## Cómo correr localmente
-Para correr la página necesitás Git y Ruby instalados en tu computadora. Una vez que cumplas esos requisitos debés seguir los siguientes pasos:
+Para correr la página necesitás [Git](https://git-scm.com/downloads) y [Ruby](https://www.ruby-lang.org/es/downloads/) instalados en tu computadora. Una vez que cumplas esos requisitos debés seguir los siguientes pasos:
 
 ```
 # Primero instalamos jekill
@@ -19,4 +19,4 @@ bundle exec jekyll serve --livereload
 Podés encontrar más información en la página de Jekyll.
 
 ## Cómo actualizar la página web
-Github automáticamente actualiza la página web cuando recibe un nuevo commit. Con pushear tus cambios a la rama main alcanza para actualizar la página web.
+Github automáticamente actualiza la página web cuando recibe un nuevo commit. Con pushear tus cambios a la rama main alcanza para actualizar la página web, luego de unos minutos podrás ver los cambios. 
