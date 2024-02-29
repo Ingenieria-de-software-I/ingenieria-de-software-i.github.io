@@ -2,7 +2,8 @@
 Sitio web del curso Leveroni de Ingenieria de Software I
 
 ## Cómo correr localmente
-Podés ver una explicación en video de este readme [aquí](https://youtu.be/cNCuhskP_Ks)
+Podés ver una explicación en video de este readme [aquí](https://youtu.be/cNCuhskP_Ks).
+
 Para correr la página necesitás [Git](https://git-scm.com/downloads) y [Ruby](https://www.ruby-lang.org/es/downloads/) instalados en tu computadora. Una vez que cumplas esos requisitos debés seguir los siguientes pasos:
 
 ```
