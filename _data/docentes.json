@@ -22,21 +22,21 @@
     },
     {
         "name": "Julieta Taras",
-        "cargo": "Ayudante 2da (Rent)",
+        "cargo": "Ayudante 2da",
         "github": "julitaras",
         "email": "jtaras@fi.uba.ar",
         "profile-image": "./assets/docentes/JulietaT.JPG"
     },
     {
         "name": "Ana Gutson",
-        "cargo": "Ayudante 2da (Rent)",
+        "cargo": "Ayudante 2da",
         "github": "AnaGutson",
         "email": "agutson@fi.uba.ar",
         "profile-image": "./assets/docentes/AnaG.jpg"
     },
     {
         "name": "Joaquín Singer",
-        "cargo": "Ayudante 2da (Rent)",
+        "cargo": "Ayudante 2da",
         "github": "josinger",
         "email": "josinger@fi.uba.ar",
         "profile-image": "./assets/docentes/JoaquinS.jpg",
@@ -44,28 +44,28 @@
     },
     {
         "name": "Nicolás Continanza",
-        "cargo": "Ayudante 2da (Adh)",
+        "cargo": "Ayudante 2da",
         "github": "ncontinanza",
         "email": "ncontinanza@fi.uba.ar",
         "profile-image": "./assets/docentes/NicolasC.png"
     },
     {
         "name": "Santiago Tobías Langer",
-        "cargo": "Ayudante 2da (Adh)",
+        "cargo": "Ayudante 2da",
         "github": "astrocinco",
         "email": "santiagolanger@gmail.com",
         "profile-image": "./assets/docentes/SantiagoL.jpg"
     },
     {
         "name": "Nazarena Rueda",
-        "cargo": "Ayudante 2da (Adh)",
+        "cargo": "Ayudante 2da",
         "github": "Naza26",
         "email": "nrueda@fi.uba.ar",
         "profile-image": "./assets/docentes/NazarenaR.jpg"
     },
     {
         "name": "Tomas Szejnfeld Sirkis",
-        "cargo": "Ayudante 2da (Adh)",
+        "cargo": "Ayudante 2da",
         "github": "TomasSzeSirk",
         "email": "tszejnfeld@fi.uba.ar",
         "profile-image": "./assets/docentes/TomasSS.jpg",
@@ -73,7 +73,7 @@
     },
     {
         "name": "Iván Loyarte",
-        "cargo": "Ayudante 2da (Adh)",
+        "cargo": "Ayudante 2da",
         "github": "iloyarte",
         "email": "iloyarte@fi.uba.ar",
         "profile-image": "./assets/docentes/IvanL.jpg",
