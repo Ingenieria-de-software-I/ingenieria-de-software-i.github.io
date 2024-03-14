@@ -1,107 +1,103 @@
 [
     {
         "name": "Luciano Leveroni",
+        "cargo": "Profesor Adjunto",
         "github": "lucianolev",
         "email": "lleveroni@fi.uba.ar",
         "profile-image": "./assets/docentes/LucianoL.png"
     },
     {
         "name": "Juan Burella",
+        "cargo": "Jefe de Trabajos Prácticos",
         "github": "jburella",
         "email": "juan.burella@gmail.com",
         "profile-image": "./assets/docentes/JuanB.jpg"
     },
     {
         "name": "Sergio Fedi",
+        "cargo": "Invitado Súper Especial",
         "github": "sergio-fedi",
         "email": "sergio.fedi@gmail.com",
         "profile-image": "./assets/docentes/SergioF.gif"
     },
     {
-        "name": "Iván Loyarte",
-        "github": "iloyarte",
-        "email": "iloyarte@fi.uba.ar",
-        "profile-image": "./assets/docentes/IvanL.jpg",
-        "offset": "75%"
-    },
-    {
         "name": "Julieta Taras",
+        "cargo": "Ayudante 2da (Rent)",
         "github": "julitaras",
         "email": "jtaras@fi.uba.ar",
         "profile-image": "./assets/docentes/JulietaT.JPG"
     },
     {
-        "name": "Mauro Rizzi",
-        "github": "Mauro-Rizzi",
-        "email": "mrizzi@fi.uba.ar",
-        "profile-image": "./assets/docentes/MauroR.jpg"
-    },
-    {
-        "name": "Nicolás Continanza",
-        "github": "ncontinanza",
-        "email": "ncontinanza@fi.uba.ar",
-        "profile-image": "./assets/docentes/NicolasC.png"
-    },
-    {
-        "name": "Fernando Laudadio",
-        "github": "flaudadio",
-        "email": "flaudadio@fi.uba.ar",
-        "profile-image": "./assets/docentes/FernandoL.jpg"
+        "name": "Ana Gutson",
+        "cargo": "Ayudante 2da (Rent)",
+        "github": "AnaGutson",
+        "email": "agutson@fi.uba.ar",
+        "profile-image": "./assets/docentes/AnaG.jpg"
     },
     {
         "name": "Joaquín Singer",
+        "cargo": "Ayudante 2da (Rent)",
         "github": "josinger",
         "email": "josinger@fi.uba.ar",
         "profile-image": "./assets/docentes/JoaquinS.jpg",
         "offset": "25%"
     },
     {
-        "name": "Josué Alejandro Bouchard",
-        "github": "josuebouchard",
-        "email": "jbouchard@fi.uba.ar",
-        "profile-image": "./assets/docentes/JosueB.jpeg"
+        "name": "Nicolás Continanza",
+        "cargo": "Ayudante 2da (Adh)",
+        "github": "ncontinanza",
+        "email": "ncontinanza@fi.uba.ar",
+        "profile-image": "./assets/docentes/NicolasC.png"
     },
     {
-        "name": "Ana Gutson",
-        "github": "AnaGutson",
-        "email": "agutson@fi.uba.ar",
-        "profile-image": "./assets/docentes/AnaG.jpg"
+        "name": "Santiago Tobías Langer",
+        "cargo": "Ayudante 2da (Adh)",
+        "github": "astrocinco",
+        "email": "santiagolanger@gmail.com",
+        "profile-image": "./assets/docentes/SantiagoL.jpg"
     },
     {
         "name": "Nazarena Rueda",
+        "cargo": "Ayudante 2da (Adh)",
         "github": "Naza26",
         "email": "nrueda@fi.uba.ar",
         "profile-image": "./assets/docentes/NazarenaR.jpg"
     },
     {
         "name": "Tomas Szejnfeld Sirkis",
+        "cargo": "Ayudante 2da (Adh)",
         "github": "TomasSzeSirk",
         "email": "tszejnfeld@fi.uba.ar",
         "profile-image": "./assets/docentes/TomasSS.jpg",
         "offset": "0%"
     },
     {
+        "name": "Iván Loyarte",
+        "cargo": "Ayudante 2da (Adh)",
+        "github": "iloyarte",
+        "email": "iloyarte@fi.uba.ar",
+        "profile-image": "./assets/docentes/IvanL.jpg",
+        "offset": "75%"
+    },
+    {
+        "name": "Borja Garibotti",
+        "cargo": "Colab",
+        "github": "mrti259",
+        "email": "mgaribotti@fi.uba.ar",
+        "profile-image": "./assets/docentes/BorjaG.jpg",
+        "offset": "0%"
+    },
+    {
         "name": "Bruno Luciano Starnone",
+        "cargo": "Colab",
         "github": "bstarnone",
         "email": "bstarnone@fi.uba.ar",
         "profile-image": "./assets/docentes/BrunoS.jpeg",
         "offset": "0%"
     },
     {
-        "name": "Santiago Tobías Langer",
-        "github": "astrocinco",
-        "email": "santiagolanger@gmail.com",
-        "profile-image": "./assets/docentes/SantiagoL.jpg"
-    },
-    {
-        "name": "Pedro Grin",
-        "github": "pedrogrin",
-        "email": "pgrin@fi.uba.ar",
-        "profile-image": "./assets/docentes/PedroG.jpg",
-        "offset": "0%"
-    },
-    {
         "name": "Fede Celeste Gómez",
+        "cargo": "Colab",
         "github": "Fedx2001",
         "email": "fedgomez@fi.uba.ar",
         "profile-image": "./assets/docentes/FedeG.jpg",
@@ -109,30 +105,25 @@
     },
     {
         "name": "Maximo Palopoli",
+        "cargo": "Colab",
         "github": "maximopalopoli",
         "email": "mpalopoli@fi.uba.ar",
         "profile-image": "./assets/docentes/MaximoP.png",
         "offset": "0%"
     },
     {
-        "name": "Claudia Cominotti",
-        "github": "ccominotti",
-        "email": "ccominotti@fi.uba.ar",
-        "profile-image": "./assets/docentes/ClaudiaC.jpg",
-        "offset": "10%"
+        "name": "Pedro Grin",
+        "cargo": "Colab",
+        "github": "pedrogrin",
+        "email": "pgrin@fi.uba.ar",
+        "profile-image": "./assets/docentes/PedroG.jpg",
+        "offset": "0%"
     },
     {
-        "name": "Ramiro Andrés Fernandez Marquez",
-        "github": "ramafernandez",
-        "email": "rfernandezm@fi.uba.ar",
-        "profile-image": "./assets/docentes/RamiroFM.jpg",
-        "offset": "55%"
-    },
-    {
-        "name": "Julian Agustin Rando",
-        "github": "JuVaTo",
-        "email": "jrando@fi.uba.ar",
-        "profile-image": "./assets/docentes/JulianR.jpg",
-        "offset": "55%"
+        "name": "Mauro Rizzi",
+        "cargo": "Colab",
+        "github": "Mauro-Rizzi",
+        "email": "mrizzi@fi.uba.ar",
+        "profile-image": "./assets/docentes/MauroR.jpg"
     }
 ]
