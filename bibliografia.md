@@ -33,9 +33,9 @@ title: Bibliografía
 
 - [The Object Recursion Pattern ~ Bobby Woolf](assets/bibliografia/object-recusion-pattern.pdf) - [Traducción al Español](assets/bibliografia/object-recursion-esp.pdf)
 
-- [Composite Pattern ~ The Gang of Four](assets/bibliografia/composite-pattern.pdf)
+- [Composite Pattern ~ The Gang of Four](assets/bibliografia/composite-pattern.pdf) - [Traducción al Español](assets/bibliografia/patron-compuesto-GoF.pdf)
 
-- [Visitor Pattern ~ The Gang of Four](assets/bibliografia/visitor-pattern.pdf)
+- [Visitor Pattern ~ The Gang of Four](assets/bibliografia/visitor-pattern.pdf) - [Traducción al Español](assets/bibliografia/patron-visitante-GoF.pdf)
 
 - [The design of everyday things ~ Donald Norman](assets/bibliografia/the-design-of-everyday-things.pdf) - [Traducción al Español](assets/bibliografia/la-psicologia-de-los-objetos-cotidianos.pdf)
 
@@ -47,7 +47,7 @@ title: Bibliografía
 
 - [Design Principles Behind Smalltalk ~ Daniel H. H. Ingalls](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) - [Traducción al Español](https://drive.google.com/file/d/1O6eT8gYyoJQzi09K8nqp22vkR8wfNKWH/view)
 
-- [Fail Fast ~ Jim Shore](assets/bibliografia/fail-fast.pdf)
+- [Fail Fast ~ Jim Shore](assets/bibliografia/fail-fast.pdf) - [Traducción al Español](assets/bibliografia/fallar-rapido.pdf)
 
 - [Blue Book ~ Adele Goldberg & David Robson](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf)
 
