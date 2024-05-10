@@ -20,7 +20,9 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 - **TP integrador:** Durante la segunda parte, los mismos grupos deberán realizar un trabajo práctico integrador. Cada grupo contará con el seguimiento de 2 docentes. Los docentes irán dando devoluciones semanales al grupo. En la última entrega, los docentes harán una evaluación final del trabajo del grupo, considerando también el aporte individual de cada integrante. Podrá re-entregarse en la fecha del 2do recuperatorio.
 
-- **Lecturas / Quizzes:** Durante la cursada habrá papers (o capítulos de libros) a leer para distintas clases, marcadas en el Cronograma. Habrá cuestionarios (tipo quiz) durante la cursada para evaluar las lecturas. Quienes obtengan un 75% (o más) de respuestas correctas sumarán para la nota final de cursada medio punto adicional (0.5) por cada 4 cuestionarios que cumplan este criterio. Estos puntos sevirán sólo para la promoción, es decir, se sumarán sólo en caso de haber aprobado el parcial.
+- **Participación en clase:** Durante la cursada se incentivará la participación en clase, tanto en debates que surgan a partir de lecturas propuestas por la cátedra como en las clases teóricas y prácticas de la materia. Quienes tengan una participación destacada podrás recibir hasta 1 punto adicional extra para la nota final de cursada. Estos puntos sevirán sólo para la promoción, es decir, se sumarán sólo en caso de haber aprobado el parcial.
+
+- **Quizzes:** Para algunas de las lecturas propuestas por la cátedra habrá cuestionarios en clase (tipo quiz). Quienes obtengan un 75% (o más) de respuestas correctas en todos los quizzes sumarán para la nota final de cursada medio punto adicional (0.5). Estos puntos sevirán sólo para la promoción, es decir, se sumarán sólo en caso de haber aprobado el parcial.
 
 ## Criterio de Aprobación
 
