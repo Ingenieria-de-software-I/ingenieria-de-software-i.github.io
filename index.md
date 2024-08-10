@@ -8,9 +8,11 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 ## Cursada
 
-- La materia se cursa los Martes de 18 a 22 hrs y Viernes de 17 a 21 hrs. La asistencia es fundamental.
+- La materia se cursa los Martes de 18 a 22 hrs y Viernes de 17 a 21 hrs. 
 
-- La cursada este cuatrimestre será presencial (salvo alguna situación excepcional).
+- La asistencia presencial es fundamental, durante las clases se trabaja en los TPs interactuando constantemente con docentes y alumnos. Es muy dificil aprobar la cursada sin ir a clase o intentando seguirla con las grabaciones, ya que se pierde el intercambio y conversación con el resto del curso. Además se perjudica al compañero de grupo.
+
+- Salvo excepciones o eventos de fuerza mayor, las clases serán presenciales.
 
 ## Instancias de evaluación
 
