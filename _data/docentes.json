@@ -28,26 +28,12 @@
         "profile-image": "./assets/docentes/JulietaT.JPG"
     },
     {
-        "name": "Ana Gutson",
-        "cargo": "Ayudante 2da",
-        "github": "AnaGutson",
-        "email": "agutson@fi.uba.ar",
-        "profile-image": "./assets/docentes/AnaG.jpg"
-    },
-    {
         "name": "Joaquín Singer",
         "cargo": "Ayudante 2da",
         "github": "josinger",
         "email": "josinger@fi.uba.ar",
         "profile-image": "./assets/docentes/JoaquinS.jpg",
         "offset": "25%"
-    },
-    {
-        "name": "Nicolás Continanza",
-        "cargo": "Ayudante 2da",
-        "github": "ncontinanza",
-        "email": "ncontinanza@fi.uba.ar",
-        "profile-image": "./assets/docentes/NicolasC.png"
     },
     {
         "name": "Santiago Tobías Langer",
@@ -81,18 +67,10 @@
     },
     {
         "name": "Borja Garibotti",
-        "cargo": "Colab",
+        "cargo": "Ayudante 2da",
         "github": "mrti259",
         "email": "mgaribotti@fi.uba.ar",
         "profile-image": "./assets/docentes/BorjaG.jpg",
-        "offset": "0%"
-    },
-    {
-        "name": "Bruno Luciano Starnone",
-        "cargo": "Colab",
-        "github": "bstarnone",
-        "email": "bstarnone@fi.uba.ar",
-        "profile-image": "./assets/docentes/BrunoS.jpeg",
         "offset": "0%"
     },
     {
@@ -120,10 +98,11 @@
         "offset": "0%"
     },
     {
-        "name": "Mauro Rizzi",
+        "name": "Fernando Laudadio",
         "cargo": "Colab",
-        "github": "Mauro-Rizzi",
-        "email": "mrizzi@fi.uba.ar",
-        "profile-image": "./assets/docentes/MauroR.jpg"
+        "github": "flaudadio",
+        "email": "flaudadio@fi.uba.ar",
+        "profile-image": "./assets/docentes/FernandoL.jpg",
+        "offset": "0%"
     }
 ]
