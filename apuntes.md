@@ -8,11 +8,9 @@ title: Apuntes
 
 ## Presentaciones <img alt="github icon" width="20px" src="./assets/icons/presentacion.svg" />
 
-- [01 Introducción a la materia](https://docs.google.com/presentation/d/18LZeACGdPdkJwaw5dCF8xuCjNNUEUNQOjYyO1hVSVoY)
-- [01B Introducción a la ingeniería de software](https://docs.google.com/presentation/d/107ujvnW9BIjqx5uM0TsUKhWi4LfpyJ5e_w_v9vofC08)
-- [09 Historia de Smalltalk](https://docs.google.com/presentation/d/1pHV5b4qAAABY70OiPXENHyAtNqfhpekKlDqnl7NxFNY/edit?usp=sharing)
-- [09 Intro a Patrones de diseño](https://docs.google.com/presentation/d/1O5P-IxBSvVE4c70EWPeZmTMVnnKZ3nAcCuD8bf-dwKI/edit?usp=sharing)
-- [10 TDD](https://docs.google.com/presentation/d/1Zw8MF7GGkyTLGYXlEge4ZYytBC4RLQtLqCRGIrSz9W4/edit?usp=sharing)
+- [01 Introducción a la materia](https://docs.google.com/presentation/d/1eB3SIUu4lrOvCYqXKT9Ka1Fd1L2QxrvAdQpl8p7M_Ao/edit#slide=id.p)
+- [01B Introducción a la ingeniería de software](https://docs.google.com/presentation/d/1uKQQEr8lx1Q5rrhrbwCVV67BFOv_S0ONOpX7z0wJL1I/edit#slide=id.p)
+- [01C Introduccion a la ingenieria de software](https://docs.google.com/presentation/d/187YcvvkAbXzn-b6efBPLMTTaIAg3GZTilX5vmGRKdIk/edit#slide=id.g2206af7cf7d_0_0)
 
 <p class="text-muted">Esta sección se irá completando con el correr del cuatrimestre</p>
 
