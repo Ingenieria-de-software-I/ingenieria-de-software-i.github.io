@@ -16,7 +16,7 @@ Vamos a estar enviando un link para cada ejercicio en donde podran crear su repo
 
 ## Fechas de Entrega <img alt="github icon" width="22px" src="https://icongr.am/fontawesome/calendar-times-o.svg?size=148&color=currentColor" />
 
-Las fechas de entrega figuran en el conograma de la materia. Todos los ejercicios deben entregarse **ANTES** del comienzo de la clase correspondiente, es decir, hasta las 18 hrs. No serán aceptados trabajos entregados luego de esa hora, ya que veremos en esa clase la resolución del ejercicio.
+Las fechas de entrega figuran en el conograma de la materia. Todos los ejercicios deben entregarse **ANTES** del comienzo de la clase correspondiente. No serán aceptados trabajos entregados luego de esa hora, ya que veremos en esa clase la resolución del ejercicio.
 
 ## Forma de Entrega
 

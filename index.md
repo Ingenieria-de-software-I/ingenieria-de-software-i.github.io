@@ -4,7 +4,7 @@ layout: home
 
 Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
-# 2024 - 1er Cuatrimestre
+# 2024 - 2do Cuatrimestre
 
 ## Cursada
 
@@ -18,19 +18,17 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 - **Ejercicios grupales:** Durante la primera parte de la cursada hay 5 ejercicios prácticos grupales, que se resuelven en grupos de a dos integrantes.
 
-- **Parcial:** Hay un exámen parcial, promediando la cursada (ver Cronograma).
+- **Parciales:** Hay dos exámenes parciales. (Ver Cronograma).
 
 - **TP integrador:** Durante la segunda parte, los mismos grupos deberán realizar un trabajo práctico integrador. Cada grupo contará con el seguimiento de 2 docentes. Los docentes irán dando devoluciones semanales al grupo. En la última entrega, los docentes harán una evaluación final del trabajo del grupo, considerando también el aporte individual de cada integrante. Podrá re-entregarse en la fecha del 2do recuperatorio.
 
-- **Participación en clase:** Durante la cursada se incentivará la participación en clase, tanto en debates que surgan a partir de lecturas propuestas por la cátedra como en las clases teóricas y prácticas de la materia. Quienes tengan una participación destacada podrás recibir hasta 1 punto adicional extra para la nota final de cursada. Estos puntos sevirán sólo para la promoción, es decir, se sumarán sólo en caso de haber aprobado el parcial.
-
-- **Quizzes:** Para algunas de las lecturas propuestas por la cátedra habrá cuestionarios en clase (tipo quiz). Quienes obtengan un 75% (o más) de respuestas correctas en todos los quizzes sumarán para la nota final de cursada medio punto adicional (0.5). Estos puntos sevirán sólo para la promoción, es decir, se sumarán sólo en caso de haber aprobado el parcial.
+- **Participación en clase:** Durante la cursada se incentivará la participación en clase, tanto en debates que surgan a partir de lecturas propuestas por la cátedra como en las clases teóricas y prácticas de la materia. Quienes tengan una participación destacada podrás recibir hasta 1 punto adicional extra para la nota final de cursada. Estos puntos sevirán sólo para la **promoción**, es decir, se sumarán sólo en caso de haber aprobado el parcial.
 
 ## Criterio de Aprobación
 
 - Para aprobar la cursada es necesario:
   - Aprobar el TP integrador con una nota mayor o igual a 4 (o en su defecto, en la instancia de re-entrega).
-  - Aprobar el parcial con con una nota mayor o igual a 4 (o en su defecto, en algún recuperatorio).
+  - Aprobar el segundo parcial con con una nota mayor o igual a 4 (o en su defecto, en algún recuperatorio).
 
 - No es necesario aprobar los ejercicios prácticos para aprobar la cursada. Sin embargo, es MUY recomendable hacerlos para poder estar preparados para aprobar el parcial y el TP integrador.
 
@@ -48,7 +46,8 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 - En caso de aprobar la cursada, la nota se calcula como el promedio redondeado (ver debajo) entre:
   - Nota del TP integrador (o de la re-entrega).
-  - Promedio entre las notas de los ejercicios y la nota del parcial. Es decir (Promedio(Ejercicios) + Parcial) / 2.
+  - Nota del 2do parcial.
+  - Promedio entre las notas de los ejercicios y la nota del 1er parcial. Es decir (Promedio(Ejercicios) + 1er Parcial) / 2.
 
 - En caso de que el cálculo de la nota de cursada sea menor a 4, pero se haya aprobado la cursada, será 4 la nota de cursada.
 
@@ -62,18 +61,24 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 - Para promocionar, se deben cumplir las siguientes 2 condiciones:
   - Nota del TP integrador >= 7 (o de la re-entrega).
+  - 2do parcial >= 7 (o 1er recu).
   - Nota de cursada >= 7.
 
 - En caso de aprobar el TP integrador, NO se aceptarán re-entregas para subir la nota para promocionar.
+
+- Punto extra por colaboración a Cuis (hasta 2)
 
 - Notar que se puede promocionar aún recuperando, pero sólo en instancia del 1er recuperatorio. En caso de necesitar rendir el 2do recuperatorio, ya no será posible acceder la promoción (aún teniendo notas >= 7).
 
 ## Canales de consultas <a name="canales-consultas"></a>
 
 - Por nuestro [canal de discord](https://discord.gg/3A5bbVKywa). Por favor realizar toda consulta por **canales públicos** como los canales abiertos o los foros, así ayudan a otros a despejar esa misma duda o incluso ayudar a un compañero/a con alguna duda que tenga. Pueden compartir código de ejercicios y TPs sin problema.
+
 - Para consultas personales/privadas, envianos un mail a la lista de docentes: <a href="mailto:fiuba-ingsoft1-doc@googlegroups.com">fiuba-ingsoft1-doc@googlegroups.com</a>
 
-Por favor NO se contacten de forma privada con un docente en particular por mail y menos aún por mensajes privados de Discord (o cualquier otro medio).
+**Por favor NO se contacten de forma privada con un docente en particular por mail y menos aún por mensajes privados de Discord (o cualquier otro medio).**
+
+Siempre usar el **_Responder a todos_**.
 
 ## Contactanos <img alt="github icon" width="22px" src="./assets/icons/contact-us.svg" /> 
 
