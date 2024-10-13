@@ -37,6 +37,10 @@ title: Bibliografía
 
 - [Visitor Pattern ~ The Gang of Four](assets/bibliografia/visitor-pattern.pdf) - [Traducción al Español](assets/bibliografia/patron-visitante-GoF.pdf)
 
+- [Observer Pattern ~ The Gang of Four](assets/bibliografia/Observer.pdf) - [Traducción al Español](assets/bibliografia/Patron-Observer-GoF.pdf)
+
+- [Proxy Pattern ~ The Gang of Four](assets/bibliografia/Proxy.pdf) - [Traducción al Español](assets/bibliografia/Patron-Proxy-GoF.pdf)
+
 - [The design of everyday things ~ Donald Norman](assets/bibliografia/the-design-of-everyday-things.pdf) - [Traducción al Español](assets/bibliografia/la-psicologia-de-los-objetos-cotidianos.pdf)
 
 - [Programming as Theory Building ~ Peter Naur](assets/bibliografia/programming-as-theory-building.pdf) - [Traducción al Español](assets/bibliografia/la-programacion-como-construccion-de-teoria.pdf)
