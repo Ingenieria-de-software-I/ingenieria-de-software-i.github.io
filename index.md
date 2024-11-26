@@ -20,7 +20,7 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 - **Parciales:** Hay dos exámenes parciales. (Ver Cronograma).
 
-- **TP integrador:** Durante la segunda parte, los mismos grupos deberán realizar un trabajo práctico integrador. Cada grupo contará con el seguimiento de 2 docentes. Los docentes irán dando devoluciones semanales al grupo. En la última entrega, los docentes harán una evaluación final del trabajo del grupo, considerando también el aporte individual de cada integrante. Podrá re-entregarse en la fecha del 2do recuperatorio.
+- **TP integrador:** Durante la segunda parte, los mismos grupos deberán realizar un trabajo práctico integrador. Cada grupo contará con el seguimiento de 2 docentes. Los docentes irán dando devoluciones semanales al grupo. Es importante destacar que la Iteración 2 será un criterio de corte: si en esta instancia el grupo no cumple con el checkpoint, no podrá continuar con el trabajo. En la última entrega, los docentes harán una evaluación final del trabajo del grupo, considerando también el aporte individual de cada integrante. Podrá re-entregarse en la fecha del 2do recuperatorio.
 
 - **Participación en clase:** Durante la cursada se incentivará la participación en clase, tanto en debates que surgan a partir de lecturas propuestas por la cátedra como en las clases teóricas y prácticas de la materia. Quienes tengan una participación destacada podrás recibir hasta 1 punto adicional extra para la nota final de cursada. Estos puntos sevirán sólo para la **promoción**, es decir, se sumarán sólo en caso de haber aprobado el parcial.
 
