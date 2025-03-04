@@ -8,23 +8,23 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 ## Cursada
 
-- La materia se cursa los Martes de 17 a 21 hrs y Viernes de 17 a 21 hrs. 
+- La materia se cursa los Martes de 17 a 21 hrs y Viernes de 17 a 21 hrs. Ambos dias habrá normalmente 3 hrs de clase, de 17 a 20 hrs, y de 20 a 21 hrs habrá espacio para responder consultas.
 
-- La asistencia presencial es fundamental, durante las clases se trabaja en los ejercicios interactuando constantemente con docentes y alumnos. Es muy dificil aprobar la cursada sin ir a clase o intentando seguirla con las grabaciones, ya que se pierde el intercambio y conversación con el resto del curso. Además se perjudica al compañero de grupo.
+- La materia no es dificil pero sí demandante en tiempo. Se presentaran ejercicios prácticamente todas las semanas, que es importante hacer en máquina en sus casas para poder estar apto para aprobar los parciales.
 
 - Salvo excepciones o eventos de fuerza mayor, las clases serán presenciales.
 
 ## Instancias de evaluación
 
-- **Ejercicios grupales:** Durante la cursada hay ejercicios prácticos grupales, que se resuelven en grupos de a dos integrantes. Los ejercicios no llevan nota ni se corrigen, pero entregarlos ayuda a promocionar la materia.
-
 - **Parciales:** Hay dos exámenes parciales. (Ver Cronograma).
 
-- **Participación en clase:** Durante la cursada se incentivará la participación en clase, tanto en debates que surgan a partir de lecturas propuestas por la cátedra como en las clases teóricas y prácticas de la materia. Quienes tengan una participación destacada podrás recibir hasta 1 punto adicional extra para la nota final de cursada. Estos puntos sevirán sólo para la **promoción**, es decir, se sumarán sólo en caso de haber aprobado el parcial.
+- **Ejercicios grupales:** Durante la cursada hay ejercicios prácticos grupales, que se resuelven en grupos de a dos integrantes. Los ejercicios no llevan nota ni se corrigen, pero entregarlos ayuda a promocionar la materia.
+
+- **Participación en clase:** Durante la cursada se incentivará la participación en clase, tanto en debates que surgan a partir de lecturas propuestas por la cátedra como en las clases teóricas y prácticas de la materia. Participar ayuda a promocionar la materia.
 
 ## Criterio de Aprobación
 
-- Para aprobar la cursada es necesario aprobar el segundo parcial con con una nota mayor o igual a 4 (o en su defecto, en algún recuperatorio).
+- Para aprobar la cursada es necesario aprobar el segundo parcial con con una nota mayor o igual a 4 (cuatro), o en su defecto, en algún recuperatorio.
 
 - No es necesario entregar los ejercicios prácticos o aprobar el primer parcial. Sin embargo, es MUY recomendable hacerlos para poder estar preparados para aprobar el segundo parcial.
 
@@ -32,11 +32,11 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 - En caso de desaprobar el segundo parcial contarán con 2 (dos) instancias de recuperatorio. En el caso del 2do recuperatorio, esta instancia sólo servirá para aprobar la cursada, pero no para promocionar (tampoco se considerará para la nota de cursada).
 
-- El primer parcial, dado que no es condición para aprobar la cursada sino sólo para promocionar, NO tienen instancia de recuperatorio.
+- El primer parcial, dado que no es condición para aprobar la cursada sino sólo para promocionar, NO tiene instancia de recuperatorio.
 
 ### Nota de cursada
 
-- En caso de aprobar la cursada, la nota es un promedio ponderado entre ambos parciales. El primer parcial representa un 30% de la nota, y el segundo un 70%.
+- En caso de aprobar la cursada, la nota es un promedio ponderado entre ambos parciales. El primer parcial representa un 30% de la nota, y el segundo un 70%. En caso de recuperar, la nota del recuperatorio "pisa" la del 2do parcial.
 
 - En caso de que el cálculo de la nota de cursada sea menor a 4, pero se haya aprobado la cursada, será 4 la nota de cursada.
 
@@ -46,15 +46,13 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 ## Promoción
 
-- Para promocionar, se deben cumplir las siguientes 2 condiciones:
-  - 2do parcial >= 7 (o 1er recu).
-  - Nota de cursada >= 7.
+- Se promociona la materia con una nota de cursada >= 7 (siete).
 
-- Punto extra por colaboración a Cuis (hasta 2).
+- Pueden recibir puntos extra por colaboración a Cuis (hasta 2).
 
-- Punto extra por participación en clase.
+- Pueden recibir hasta medio punto extra por participación en clase.
 
-- Punto extra por entregar los ejercicios prácticos.
+- Recibirán 0.5 punto extra por cada 5 ejercicios entregados. Si bien no se corrigen ni van con nota, se desestimarán entregas que estén muy incompletas o no cumplan un mínimo. El criterio es que se pueda observar que trabajaron en el ejercicio.
 
 - Notar que se puede promocionar aún recuperando, pero sólo en instancia del 1er recuperatorio. En caso de necesitar rendir el 2do recuperatorio, ya no será posible acceder la promoción (aún teniendo notas >= 7).
 
