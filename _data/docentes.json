@@ -36,13 +36,6 @@
         "offset": "25%"
     },
     {
-        "name": "Santiago Tobías Langer",
-        "cargo": "Ayudante 2da",
-        "github": "astrocinco",
-        "email": "slanger@fi.uba.ar",
-        "profile-image": "./assets/docentes/SantiagoL.jpg"
-    },
-    {
         "name": "Tomas Szejnfeld Sirkis",
         "cargo": "Ayudante 2da",
         "github": "TomasSzeSirk",
@@ -60,23 +53,15 @@
     },
     {
         "name": "Celeste Gómez",
-        "cargo": "Colab",
+        "cargo": "Ayudante 2da",
         "github": "Fedx2001",
         "email": "fedgomez@fi.uba.ar",
         "profile-image": "./assets/docentes/FedeG.jpg",
         "offset": "40%"
     },
     {
-        "name": "Maximo Palopoli",
-        "cargo": "Colab",
-        "github": "maximopalopoli",
-        "email": "mpalopoli@fi.uba.ar",
-        "profile-image": "./assets/docentes/MaximoP.png",
-        "offset": "0%"
-    },
-    {
         "name": "Pedro Grin",
-        "cargo": "Colab",
+        "cargo": "Ayudante 2da",
         "github": "pedrogrin",
         "email": "pgrin@fi.uba.ar",
         "profile-image": "./assets/docentes/PedroG.jpg",
@@ -84,7 +69,7 @@
     },
     {
         "name": "Fernando Laudadio",
-        "cargo": "Colab",
+        "cargo": "Ayudante 2da",
         "github": "flaudadio",
         "email": "flaudadio@fi.uba.ar",
         "profile-image": "./assets/docentes/FernandoL.jpg",
