@@ -21,13 +21,6 @@
         "profile-image": "./assets/docentes/SergioF.gif"
     },
     {
-        "name": "Julieta Taras",
-        "cargo": "Ayudante 2da",
-        "github": "julitaras",
-        "email": "jtaras@fi.uba.ar",
-        "profile-image": "./assets/docentes/JulietaT.JPG"
-    },
-    {
         "name": "Joaquín Singer",
         "cargo": "Ayudante 2da",
         "github": "josinger",
@@ -41,6 +34,14 @@
         "github": "TomasSzeSirk",
         "email": "tszejnfeld@fi.uba.ar",
         "profile-image": "./assets/docentes/TomasSS.jpg",
+        "offset": "0%"
+    },
+    {
+        "name": "Ana Gutson",
+        "cargo": "Ayudante 2da",
+        "github": "AnaGutson",
+        "email": "agutson@fi.uba.ar",
+        "profile-image": "./assets/docentes/AnaG.jpg",
         "offset": "0%"
     },
     {
@@ -73,14 +74,6 @@
         "github": "flaudadio",
         "email": "flaudadio@fi.uba.ar",
         "profile-image": "./assets/docentes/FernandoL.jpg",
-        "offset": "0%"
-    },
-    {
-        "name": "Ana Gutson",
-        "cargo": "Invitada",
-        "github": "AnaGutson",
-        "email": "agutson@fi.uba.ar",
-        "profile-image": "./assets/docentes/AnaG.jpg",
         "offset": "0%"
     }
 ]
