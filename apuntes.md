@@ -8,7 +8,11 @@ title: Apuntes
 
 ## Presentaciones <img alt="github icon" width="20px" src="./assets/icons/presentacion.svg" />
 
-<p class="text-muted">Esta sección se irá completando con el correr del cuatrimestre</p>
+[01 Introducción a la materia](https://docs.google.com/presentation/d/1_HzWu0bnRIvB5GHUhpqNm_NVK0-ByPklJzMALT1ggO0/edit?usp=sharing)
+
+[01B Introducción a la ingeniería de Software](https://docs.google.com/presentation/d/1-9n48TRvc4FvYBcNf5FCGFrWO4IXljGnfCjtb47qGhM/edit?usp=sharing)
+
+<p class="text-muted">Esta sección se irá completando con el correr del cuatrimestre, a pedido de les alumnes.</p>
 
 ## Git <img alt="github icon" width="20px" src="https://icongr.am/devicon/git-plain.svg?size=148&color=currentColor" />
 
