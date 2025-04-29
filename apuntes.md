@@ -12,6 +12,8 @@ title: Apuntes
 
 [01B Introducción a la ingeniería de Software](https://docs.google.com/presentation/d/1-9n48TRvc4FvYBcNf5FCGFrWO4IXljGnfCjtb47qGhM/edit?usp=sharing)
 
+[12 TDD](https://docs.google.com/presentation/d/1M5ZBUuD_tOSM9JNnmTeqhnZdaKCPHm8ONOz_Y08hBGM/edit?usp=sharing)
+
 <p class="text-muted">Esta sección se irá completando con el correr del cuatrimestre, a pedido de les alumnes.</p>
 
 ## Git <img alt="github icon" width="20px" src="https://icongr.am/devicon/git-plain.svg?size=148&color=currentColor" />
