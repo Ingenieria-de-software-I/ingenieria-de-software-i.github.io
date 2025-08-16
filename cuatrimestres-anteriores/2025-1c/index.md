@@ -4,11 +4,11 @@ layout: home
 
 Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
-# 2025 - 2do Cuatrimestre
+# 2025 - 1er Cuatrimestre
 
 ## Cursada
 
-- La materia se cursa los Martes de 18 a 22 hrs y Viernes de 18 a 22 hrs. 
+- La materia se cursa los Martes de 17 a 21 hrs y Viernes de 17 a 21 hrs. Ambos dias habrá normalmente 3 hrs de clase, de 17 a 20 hrs, y de 20 a 21 hrs habrá espacio para responder consultas.
 
 - La materia no es dificil pero sí demandante en tiempo. Se presentaran ejercicios prácticamente todas las semanas, que es importante hacer en máquina en sus casas para poder estar apto para aprobar los parciales.
 
@@ -18,7 +18,7 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 - **Parciales:** Hay dos exámenes parciales. (Ver Cronograma).
 
-- **Ejercicios grupales:** Durante la cursada hay ejercicios prácticos grupales, que se resuelven en grupos de a dos integrantes. La realización de los ejercicios no es obligatoria para aprobar la cursada, pero entregarlos ayuda a promocionar la materia y realizarlos es fundamental para comprender los temas vistos en clase.
+- **Ejercicios grupales:** Durante la cursada hay ejercicios prácticos grupales, que se resuelven en grupos de a dos integrantes. Los ejercicios no llevan nota ni se corrigen, pero entregarlos ayuda a promocionar la materia.
 
 - **Participación en clase:** Durante la cursada se incentivará la participación en clase, tanto en debates que surgan a partir de lecturas propuestas por la cátedra como en las clases teóricas y prácticas de la materia. Participar ayuda a promocionar la materia.
 
@@ -36,7 +36,7 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 ### Nota de cursada
 
-- En caso de aprobar la cursada, la nota es un promedio ponderado entre las instancias de evaluación.
+- En caso de aprobar la cursada, la nota es un promedio ponderado entre ambos parciales. El primer parcial representa un 30% de la nota, y el segundo un 70%. En caso de recuperar, la nota del recuperatorio "pisa" la del 2do parcial.
 
 - En caso de que el cálculo de la nota de cursada sea menor a 4, pero se haya aprobado la cursada, será 4 la nota de cursada.
 
@@ -51,6 +51,8 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 - Pueden recibir puntos extra por colaboración a Cuis (hasta 2).
 
 - Pueden recibir hasta medio punto extra por participación en clase.
+
+- Recibirán 0.5 punto extra por cada 5 ejercicios entregados. Si bien no se corrigen ni van con nota, se desestimarán entregas que estén muy incompletas o no cumplan un mínimo. El criterio es que se pueda observar que trabajaron en el ejercicio.
 
 - Notar que se puede promocionar aún recuperando, pero sólo en instancia del 1er recuperatorio. En caso de necesitar rendir el 2do recuperatorio, ya no será posible acceder la promoción (aún teniendo notas >= 7).
 

@@ -5,6 +5,7 @@ title: Otros
 
 Esta sección contiene información para los alumnos de cuatrimestres anteriores.
 
+- [2025 - 1er cuatrimestre](cuatrimestres-anteriores/2025-1c/)
 - [2024 - 2do cuatrimestre](cuatrimestres-anteriores/2024-2c/)
 - [2024 - 1er cuatrimestre](cuatrimestres-anteriores/2024-1c/)
 
