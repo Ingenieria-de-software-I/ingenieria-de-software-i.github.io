@@ -14,13 +14,6 @@
         "profile-image": "./assets/docentes/JuanB.jpg"
     },
     {
-        "name": "Sergio Fedi",
-        "cargo": "Invitado Súper Especial",
-        "github": "sergio-fedi",
-        "email": "sergio.fedi@gmail.com",
-        "profile-image": "./assets/docentes/SergioF.gif"
-    },
-    {
         "name": "Joaquín Singer",
         "cargo": "Ayudante 2da",
         "github": "josinger",
@@ -45,14 +38,6 @@
         "offset": "0%"
     },
     {
-        "name": "Iván Loyarte",
-        "cargo": "Ayudante 2da",
-        "github": "iloyarte",
-        "email": "iloyarte@fi.uba.ar",
-        "profile-image": "./assets/docentes/IvanL.jpg",
-        "offset": "75%"
-    },
-    {
         "name": "Celeste Gómez",
         "cargo": "Ayudante 2da",
         "github": "Fedx2001",
@@ -61,11 +46,26 @@
         "offset": "40%"
     },
     {
+        "name": "Sergio Fedi",
+        "cargo": "Invitado Especial",
+        "github": "sergio-fedi",
+        "email": "sergio.fedi@gmail.com",
+        "profile-image": "./assets/docentes/SergioF.gif"
+    },
+    {
         "name": "Fernando Laudadio",
-        "cargo": "Ayudante 2da",
+        "cargo": "Invitado Especial",
         "github": "flaudadio",
         "email": "flaudadio@fi.uba.ar",
         "profile-image": "./assets/docentes/FernandoL.jpg",
         "offset": "0%"
+    },
+    {
+        "name": "Iván Loyarte",
+        "cargo": "Invitado Especial",
+        "github": "iloyarte",
+        "email": "iloyarte@fi.uba.ar",
+        "profile-image": "./assets/docentes/IvanL.jpg",
+        "offset": "75%"
     }
 ]
