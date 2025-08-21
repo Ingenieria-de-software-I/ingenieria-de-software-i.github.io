@@ -1,0 +1,123 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Grabaciones</title>
+
+<!-- Google Identity Services -->
+<meta name="google-signin-client_id" content="26243967592-9vjdq2ba3lhummllge925psmftqpfq70.apps.googleusercontent.com">
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+
+<style>
+    body {
+        font-family: system-ui, sans-serif;
+        max-width: 960px;
+        margin: 32px auto;
+        padding: 0 16px;
+    }
+
+    .video {
+        position: relative;
+        padding-top: 56.25%;
+        margin: 12px 0;
+    }
+
+    .video iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%
+    }
+
+    .card {
+        border: 1px solid #ddd;
+        border-radius: 12px;
+        padding: 16px;
+        margin: 16px 0;
+    }
+
+    h2 {
+        margin-top: 0
+    }
+
+    #signin {
+        margin: 8px 0
+    }
+</style>
+
+<h2>Clases</h2>
+<div id="signin"></div>
+<p id="who"></p>
+<div id="content"></div>
+
+<script>
+    const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwTjJnd756SJ2ThyPX8cV2UgRto7q8bb0GVAmfjkbC2WDIZLdQKbCnSPd1BALIqjDYy/exec';
+    const CLIENT_ID = document.querySelector('meta[name="google-signin-client_id"]').content;
+    let idToken = null;
+
+    window.onload = () => {
+        google.accounts.id.initialize({
+            client_id: CLIENT_ID,
+            callback: async (resp) => {
+                idToken = resp.credential;
+                const email = getEmailFromJWT(idToken);
+                document.getElementById('who').textContent = email ? ('Conectado como: ' + email) : '';
+                await loadClasses();
+            }
+        });
+        google.accounts.id.renderButton(
+            document.getElementById('signin'),
+            {theme: 'outline', size: 'large'}
+        );
+    };
+
+    function getEmailFromJWT(jwt) {
+        const payload = JSON.parse(atob(jwt.split('.')[1].replace(/-/g, '+').replace(/_/g, '/')));
+        return (payload.email || '').toLowerCase();
+    }
+
+    async function loadClasses() {
+        const pageContent = document.getElementById('content');
+        pageContent.textContent = 'Cargando…';
+        if (!idToken) {
+            pageContent.textContent = 'Iniciá sesión con Google para ver tus clases.';
+            return;
+        }
+
+        const response = await fetch(APPS_SCRIPT_URL, {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json', 'Authorization': 'Bearer ' + idToken},
+            body: '{}' // sin parámetros: el backend devuelve TODAS tus clases permitidas
+        });
+        const jsonResponse = await response.json();
+
+        if (!jsonResponse.ok) {
+            pageContent.textContent = (jsonResponse.error === 'invalid_token' ? 'Token inválido.' : 'No se pudo cargar.');
+            return;
+        }
+
+        if (!jsonResponse.videos_of_classes.length) {
+            pageContent.textContent = 'No tenés grabaciones asignadas todavía.';
+            return;
+        }
+
+        pageContent.innerHTML = '';
+        jsonResponse.videos_of_classes.forEach(classVideos => {
+            const card = document.createElement('div');
+            card.className = 'card';
+            const title = document.createElement('h3');
+            title.textContent = 'Clase #' + classVideos.number;
+            card.appendChild(title);
+            classVideos.videos.forEach(id => {
+                const d = document.createElement('div');
+                d.className = 'video';
+                d.innerHTML = `<iframe src="https://www.youtube.com/embed/${id}?rel=0&modestbranding=1&controls=1"
+          title="Clase ${classVideos.numero}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope"
+          allowfullscreen></iframe>`;
+                card.appendChild(d);
+            });
+            pageContent.appendChild(card);
+        });
+    }
+</script>
+
