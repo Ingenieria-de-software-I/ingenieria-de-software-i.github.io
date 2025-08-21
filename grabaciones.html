@@ -51,16 +51,16 @@
 <div id="content"></div>
 
 <script>
-    const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwTjJnd756SJ2ThyPX8cV2UgRto7q8bb0GVAmfjkbC2WDIZLdQKbCnSPd1BALIqjDYy/exec';
+    const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzKBRT6Y86czql7G-iWIzOZR04bHqDwZGRIxzEyOy96wv6C9V499Lxbfy2T_eSFdZsp/exec';
     const CLIENT_ID = document.querySelector('meta[name="google-signin-client_id"]').content;
-    let idToken = null;
+    let loggedInUserToken = null;
 
     window.onload = () => {
         google.accounts.id.initialize({
             client_id: CLIENT_ID,
             callback: async (resp) => {
-                idToken = resp.credential;
-                const email = getEmailFromJWT(idToken);
+                loggedInUserToken = resp.credential;
+                const email = getEmailFromJWT(loggedInUserToken);
                 document.getElementById('who').textContent = email ? ('Conectado como: ' + email) : '';
                 await loadClasses();
             }
@@ -79,15 +79,15 @@
     async function loadClasses() {
         const pageContent = document.getElementById('content');
         pageContent.textContent = 'Cargando…';
-        if (!idToken) {
+        if (!loggedInUserToken) {
             pageContent.textContent = 'Iniciá sesión con Google para ver tus clases.';
             return;
         }
 
         const response = await fetch(APPS_SCRIPT_URL, {
             method: 'POST',
-            headers: {'Content-Type': 'application/json', 'Authorization': 'Bearer ' + idToken},
-            body: '{}' // sin parámetros: el backend devuelve TODAS tus clases permitidas
+            headers: { 'Content-Type': 'text/plain' },
+            body: JSON.stringify({ loggedInUserToken: loggedInUserToken })
         });
         const jsonResponse = await response.json();
 
