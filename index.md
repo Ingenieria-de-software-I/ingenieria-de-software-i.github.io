@@ -54,6 +54,12 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 - Notar que se puede promocionar aún recuperando, pero sólo en instancia del 1er recuperatorio. En caso de necesitar rendir el 2do recuperatorio, ya no será posible acceder la promoción (aún teniendo notas >= 7).
 
+## Rúbrica de evaluación
+
+La siguiente rúbrica es utilizada para evaluar los ejercicios y parciales de la cursada. La misma podrá ir evaluacionando y refinándose con el correr del cuatrimestre.
+
+[Ver rúbrica](https://docs.google.com/spreadsheets/d/1GPE5XYWfU1xOMkjvICISYTGLxq_5Y4uFbPmjvHNnaew/edit?usp=sharing)
+
 ## Canales de consultas <a name="canales-consultas"></a>
 
 - Por nuestro [canal de discord](https://discord.gg/3A5bbVKywa). Por favor realizar toda consulta por **canales públicos** como los canales abiertos o los foros, así ayudan a otros a despejar esa misma duda o incluso ayudar a un compañero/a con alguna duda que tenga. Pueden compartir código de ejercicios y TPs sin problema.
