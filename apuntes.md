@@ -27,4 +27,51 @@ title: Apuntes
 
 ## Apunte teórico <img alt="github icon" width="20px" src="https://icongr.am/clarity/library.svg?size=128&color=currentColor" />
 
-<p class="text-muted">Esta sección se irá completando con el correr del cuatrimestre, a pedido de les alumnes.</p>
+Conceptos que exploramos
+- Objeto
+- Mensaje vs Método
+- Igualdad vs Identidad
+- Closures
+- Acoplamiento y cohesión
+- Encapsulamiento
+- Polimorfismo
+- Prototipado vs Clasificacion
+- Clase y jerarquías de conocimiento.
+
+Heurísticas de diseño
+-------------
+
+Hasta ahora…
+
+- Buscamos 1:1 entre objeto y ente de la realidad. Separación de responsabilidades.
+- Nombrar a los objetos (clases y colaboradores) según el ROL que cumplen de acuerdo al contexto / al dominio de problema.
+- Guiarnos por el aspecto funcional conduce a buenos diseños.
+- Evitar romper encapsulamiento.
+- Código repetido: Señal de que falta una abstracción.
+- Favorecer polimorfismo por sobre ifs.
+- Favorecer inmutabilidad
+- Crear objetos completos
+- Crear objetos validos
+- Evitar subclasificar de clases concretas.
+- Favorecer composición por sobre subclasificación.
+
+Técnicas que vimos:
+- Algoritmo para quitar código repetido
+- Algoritmo para quitar el if [*]
+- Switch dinámico
+
+[*]
+
+1. Crear una jerarquia de clases con una clase por cada condicion del if (si no existe)
+2. Mover el cuerpo del if de cada condicion a cada abstracción del paso 1) utilizando un mensaje polimorfico.
+3. Nombrar el mensaje polifmorfico
+4. Nombrar las abstracciones del paso 1)
+5. Reemplazar el if por el envio de mensaje polimorfico
+6. Buscar el objeto polimorfico (si es necesario)
+
+---
+TDD
+
+1. Escribir un test que falle
+2. Hacer pasar todos los test
+3. Reflexionar
