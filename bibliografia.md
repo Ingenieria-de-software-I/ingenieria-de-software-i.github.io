@@ -47,6 +47,8 @@ title: Bibliografía
 
 - [No Silver Bullet ~ Frederick P. Brooks](assets/bibliografia/no-silver-bullet.pdf) - [Traducción al Español](https://gist.github.com/esparta/582e43af7b803e0aaf69)
 
+- [Extreme Programming - Intro y Valores - Kent Beck](assets/bibliografia/xp-intro-and-values.pdf)
+
 ### Complementarias <img alt="github icon" width="22px" src="https://icongr.am/octicons/book.svg?size=128&color=currentColor" /> 
 
 - [Design Principles Behind Smalltalk ~ Daniel H. H. Ingalls](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) - [Traducción al Español](https://drive.google.com/file/d/1O6eT8gYyoJQzi09K8nqp22vkR8wfNKWH/view)
