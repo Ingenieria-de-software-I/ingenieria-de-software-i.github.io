@@ -49,6 +49,8 @@ title: Bibliografía
 
 - [Extreme Programming - Intro y Valores - Kent Beck](assets/bibliografia/xp-intro-and-values.pdf)
 
+- [Extreme Programming - Principios y Practicas - Kent Beck](assets/bibliografia/xp-principles-and-practices.pdf)
+
 ### Complementarias <img alt="github icon" width="22px" src="https://icongr.am/octicons/book.svg?size=128&color=currentColor" /> 
 
 - [Design Principles Behind Smalltalk ~ Daniel H. H. Ingalls](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) - [Traducción al Español](https://drive.google.com/file/d/1O6eT8gYyoJQzi09K8nqp22vkR8wfNKWH/view)
