@@ -38,9 +38,10 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 - En caso de aprobar la cursada, la nota de cursada será la nota del 2do parcial (o 1er recu, si no aprobaron el parcial), sumando los siguiente puntos adicionales:
   - 1 pt extra si obtuvieron nota de promoción (nota *MB* o *S*) en el 1er Parcial.
-  - Hasta 1.5 pts por los ejercicios promocionados (nota *MB* o *S*). Se sumará 0.25 pt por cada ejercicio con dichas notas.
-  - Hasta 0.5 pt por el resto de los ejercicios entregados (sean no promocionados, insuficiente o sin nota). Se sumará 0.25 pt por cada 4 (cuatro) ejercicios entregados.
-  - Hasta 0.5 pts por participación en clase. Se sumará 0.5 pts a quienes hayan tenido una participación destacada en clase.
+  - Hasta 1.5 pts por los ejercicios entregados/aprobados.
+    - Se sumará 0.25 pt por cada ejercicio con nota de promoción (nota *MB* o *S*).
+    - Se sumará 0.25 pt por cada 4 (cuatro) ejercicios entregados no promocionados (es decir, nota *B*, *R* o sin nota). Notar que los ejercicios con nota *I* no serán considerados.
+  - 0.5 pt extra a quienes hayan tenido una participación destacada en clase.
   - Hasta 2 pts por colaboraciones a Cuis.
 
 - En caso de no aprobar la cursada, la nota de cursada es la nota del 1er Recu (o 2do parcial si se ausentaron el recu).
