@@ -36,21 +36,22 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 ### Nota de cursada
 
-- En caso de aprobar la cursada, la nota es un promedio ponderado entre las instancias de evaluación.
+- En caso de aprobar la cursada, la nota de cursada será la nota del 2do parcial (o 1er recu, si no aprobaron el parcial), sumando los siguiente puntos adicionales:
+  - 1 pt extra si obtuvieron nota de promoción (nota *MB* o *S*) en el 1er Parcial.
+  - Hasta 1.5 pts por los ejercicios promocionados (nota *MB* o *S*). Se sumará 0.25 pt por cada ejercicio con dichas notas.
+  - Hasta 0.5 pt por el resto de los ejercicios entregados (sean no promocionados, insuficiente o sin nota). Se sumará 0.25 pt por cada 4 (cuatro) ejercicios entregados.
+  - Hasta 0.5 pts por participación en clase. Se sumará 0.5 pts a quienes hayan tenido una participación destacada en clase.
+  - Hasta 2 pts por colaboraciones a Cuis.
 
-- En caso de que el cálculo de la nota de cursada sea menor a 4, pero se haya aprobado la cursada, será 4 la nota de cursada.
+- En caso de no aprobar la cursada, la nota de cursada es la nota del 1er Recu (o 2do parcial si se ausentaron el recu).
 
-- Notar que NO se considera el 2do recuperatorio para la nota de cursada.
+- Notar que NO se considera el 2do recuperatorio para la nota de cursada. En caso de aprobar la materia por esta vía, la nota de cursada será 4 (cuatro).
 
 - Sobre el redondeo: La nota de los parciales NO se redondea. Sólo se redondea la nota de cursada al entero más cercano (.5 se redondea para arriba). Ej: 6.50 es 7 pero 6.42 es 6. (Función REDONDEAR de Excel).
 
 ## Promoción
 
 - Se promociona la materia con una nota de cursada >= 7 (siete).
-
-- Pueden recibir puntos extra por colaboración a Cuis (hasta 2).
-
-- Pueden recibir hasta medio punto extra por participación en clase.
 
 - Notar que se puede promocionar aún recuperando, pero sólo en instancia del 1er recuperatorio. En caso de necesitar rendir el 2do recuperatorio, ya no será posible acceder la promoción (aún teniendo notas >= 7).
 
