@@ -4,7 +4,7 @@ layout: home
 
 Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
-# 2025 - 2do Cuatrimestre
+# 2026 - 1er Cuatrimestre
 
 ## Cursada
 

@@ -38,11 +38,35 @@
         "offset": "0%"
     },
     {
-        "name": "Celeste Gómez",
-        "cargo": "Ayudante 2da",
-        "github": "Fedx2001",
-        "email": "fedgomez@fi.uba.ar",
-        "profile-image": "./assets/docentes/FedeG.jpg",
+        "name": "Martina Riccardi",
+        "cargo": "Colab",
+        "github": "martinariccardi",
+        "email": "mriccardi@fi.uba.ar",
+        "profile-image": "./assets/docentes/MartinaR.jpeg",
+        "offset": "40%"
+    },
+    {
+        "name": "Lucas Raffinetti",
+        "cargo": "Colab",
+        "github": "lraffinetti",
+        "email": "lraffinetti@fi.uba.ar",
+        "profile-image": "./assets/docentes/LucasR.jpg",
+        "offset": "40%"
+    },
+    {
+        "name": "Pedro Gillen",
+        "cargo": "Colab",
+        "github": "pedrogillen",
+        "email": "pgillen@fi.uba.ar",
+        "profile-image": "./assets/docentes/PedroG.jpg",
+        "offset": "40%"
+    },
+    {
+        "name": "Lucas Conde",
+        "cargo": "Colab",
+        "github": "LucasConde22",
+        "email": "lconde@fi.uba.ar",
+        "profile-image": "./assets/docentes/LucasC.jpg",
         "offset": "40%"
     },
     {
@@ -51,14 +75,6 @@
         "github": "sergio-fedi",
         "email": "sergio.fedi@gmail.com",
         "profile-image": "./assets/docentes/SergioF.gif"
-    },
-    {
-        "name": "Fernando Laudadio",
-        "cargo": "Invitado Especial",
-        "github": "flaudadio",
-        "email": "flaudadio@fi.uba.ar",
-        "profile-image": "./assets/docentes/FernandoL.jpg",
-        "offset": "0%"
     },
     {
         "name": "Iván Loyarte",
