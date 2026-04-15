@@ -60,7 +60,7 @@ Bienvenidos a Ingenieria de Software I - Curso Leveroni
 
 La siguiente rúbrica es utilizada para evaluar los ejercicios y parciales de la cursada. La misma podrá ir evolucionando y refinándose con el correr del cuatrimestre.
 
-[Ver rúbrica](https://docs.google.com/spreadsheets/d/1GPE5XYWfU1xOMkjvICISYTGLxq_5Y4uFbPmjvHNnaew/edit?usp=sharing)
+[Ver rúbrica](https://docs.google.com/spreadsheets/d/1Rkw05Wxy3oCZiwd7R6Ytpazs3rXWolf7b2R_OZpOnEE/edit?usp=sharing)
 
 ## Canales de consultas <a name="canales-consultas"></a>
 
