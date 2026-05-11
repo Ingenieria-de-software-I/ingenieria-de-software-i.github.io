@@ -10,6 +10,8 @@ title: Apuntes
 
 - [01 Introducción a la materia](https://docs.google.com/presentation/d/123vrKD3jDXZVGoZioO6-GX22h5SzuP3Pxx0HlwSVNVA/edit?usp=sharing)
 - [01B Introducción a la ingeniería de Software](https://docs.google.com/presentation/d/1_E6M695Bug4AM0A0GttqAyg4OcAnvtaRt57gfeFQr68/edit?usp=sharing)
+- [11 TDD](https://docs.google.com/presentation/d/1MAKyh5cdWOChtgiXfyDem_GrSiHqiwtOVxPWZeZURTk/edit?usp=sharing)
+- [14 Intro a Patrones de diseño](https://docs.google.com/presentation/d/1Ecbw3uiUrSyp3ydmXNcg-vguNQzmcuvZF2Dq81z_ch0/edit?usp=sharing)
 
 ## Git <img alt="github icon" width="20px" src="https://icongr.am/devicon/git-plain.svg?size=148&color=currentColor" />
 
